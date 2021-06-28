@@ -1,6 +1,6 @@
 /*
- * Name: Jiachen Zhang
- * Student number: 2098620
+ * Name: 
+ * Student number:
  */
 
 import java.io.BufferedReader;
